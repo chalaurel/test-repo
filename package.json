@@ -1,0 +1,7 @@
+{
+    "name": "Test Github Workflow",
+    "main": "app.js",
+    "dependencies": {
+        "moment": "^2.29.4"
+    }
+}
